@@ -1,0 +1,41 @@
+{
+    "0xB345C647AB748B8Eb15F906865234787968B0481": {
+        "leaf": "0x612fffedfad4eca1db5b4a1aaf3fce11fe64c1b422d04ebdea0f255fa5258a3a",
+        "proof": [
+            "0x2cdac5bab88b2820f179accfe7db0708c7ebca7ad2ed494e821b11cae51e7420",
+            "0x717390e7c691bb28e46a0ce9f0a25a1b35bec34d9019d9c8403ebd4c311de8fd",
+            "0xce67baf57b751655527e0041b2a16660398ab3c1d13e64fdcf65ee9b7078f2d5"
+        ]
+    },
+    "0x1a753cE47952bFd1080441E6cDC4C45Ae367c875": {
+        "leaf": "0x2cdac5bab88b2820f179accfe7db0708c7ebca7ad2ed494e821b11cae51e7420",
+        "proof": [
+            "0x612fffedfad4eca1db5b4a1aaf3fce11fe64c1b422d04ebdea0f255fa5258a3a",
+            "0x717390e7c691bb28e46a0ce9f0a25a1b35bec34d9019d9c8403ebd4c311de8fd",
+            "0xce67baf57b751655527e0041b2a16660398ab3c1d13e64fdcf65ee9b7078f2d5"
+        ]
+    },
+    "0x3ba11C88DdC1D7E8764E53624914A1D1a9Ee6B11": {
+        "leaf": "0x238ec5fa2204d1ca7888408ddf4ad828b444acce7134b9827df569b5c6e7ad7a",
+        "proof": [
+            "0xe32766e058b62059f104082c886524d7c60929d84a9cce0cb8ef85787be2fd9e",
+            "0x3e340b7d2dc3bc641e6de7360023189cfc8a8823bc5acb93f73b8a6e5d71afde",
+            "0xce67baf57b751655527e0041b2a16660398ab3c1d13e64fdcf65ee9b7078f2d5"
+        ]
+    },
+    "0xB4A9E4F29224DC2A124a6112061847C7CE5CA95a": {
+        "leaf": "0xe32766e058b62059f104082c886524d7c60929d84a9cce0cb8ef85787be2fd9e",
+        "proof": [
+            "0x238ec5fa2204d1ca7888408ddf4ad828b444acce7134b9827df569b5c6e7ad7a",
+            "0x3e340b7d2dc3bc641e6de7360023189cfc8a8823bc5acb93f73b8a6e5d71afde",
+            "0xce67baf57b751655527e0041b2a16660398ab3c1d13e64fdcf65ee9b7078f2d5"
+        ]
+    },
+    "0xDCE66B5dF98Ba7C4538B7e0f75e782B73E2A8D71": {
+        "leaf": "0xce67baf57b751655527e0041b2a16660398ab3c1d13e64fdcf65ee9b7078f2d5",
+        "proof": [
+            "0x5cbc181383609aeb4ef4532832cf3476cb5349039471df34b8dfa682b9631efe"
+        ]
+    },
+    "merkleRoot": "0x48f1a1c4e9c43ca8a01a25c497836cefc7ba980c4073bdb42720ef76f219366a"
+}

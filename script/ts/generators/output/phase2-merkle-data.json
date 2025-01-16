@@ -1,0 +1,41 @@
+{
+    "0x4e92846C27091840579035003Caa6fC28E474672": {
+        "leaf": "0x87b8797bbbc928b24d779274585841aa671de94ac7f86f48433672bf5d7614ed",
+        "proof": [
+            "0x432e49269b3fc01c632668701c6d4a33f28a978072ebdb3fa93457e8debcdbf0",
+            "0xe46acbf2f12a0e43eccf9cb5e45601ea3444a3dab3c60b03d2ad52bfd164456c",
+            "0x961869a938ce42cadf03f70f627987c9b6a47e7c4ec527706ed8fc5f0cd24d22"
+        ]
+    },
+    "0x1a753cE47952bFd1080441E6cDC4C45Ae367c875": {
+        "leaf": "0x432e49269b3fc01c632668701c6d4a33f28a978072ebdb3fa93457e8debcdbf0",
+        "proof": [
+            "0x87b8797bbbc928b24d779274585841aa671de94ac7f86f48433672bf5d7614ed",
+            "0xe46acbf2f12a0e43eccf9cb5e45601ea3444a3dab3c60b03d2ad52bfd164456c",
+            "0x961869a938ce42cadf03f70f627987c9b6a47e7c4ec527706ed8fc5f0cd24d22"
+        ]
+    },
+    "0x3ba11C88DdC1D7E8764E53624914A1D1a9Ee6B11": {
+        "leaf": "0xe675c39a25fd18b7b4fc36b283b9c62d10f5d697b9b84b302dc8941b9d9070be",
+        "proof": [
+            "0x0ebaff65d86a59d726af2de6c98f57591612b8d7f0887f3d0ff5a7f0b545dc4b",
+            "0xdcc04c65773fb447aacc8a810925d3c6cb619a4e3d5369695d279360056ad131",
+            "0x961869a938ce42cadf03f70f627987c9b6a47e7c4ec527706ed8fc5f0cd24d22"
+        ]
+    },
+    "0xB4A9E4F29224DC2A124a6112061847C7CE5CA95a": {
+        "leaf": "0x0ebaff65d86a59d726af2de6c98f57591612b8d7f0887f3d0ff5a7f0b545dc4b",
+        "proof": [
+            "0xe675c39a25fd18b7b4fc36b283b9c62d10f5d697b9b84b302dc8941b9d9070be",
+            "0xdcc04c65773fb447aacc8a810925d3c6cb619a4e3d5369695d279360056ad131",
+            "0x961869a938ce42cadf03f70f627987c9b6a47e7c4ec527706ed8fc5f0cd24d22"
+        ]
+    },
+    "0xDCE66B5dF98Ba7C4538B7e0f75e782B73E2A8D71": {
+        "leaf": "0x961869a938ce42cadf03f70f627987c9b6a47e7c4ec527706ed8fc5f0cd24d22",
+        "proof": [
+            "0xd6bd75d92b1f7169a5fbb37006e461425877188f71acddb2c79b254ea09ee7a3"
+        ]
+    },
+    "merkleRoot": "0xfb94f81e94981ed37fc7c7b6fa661136451dd3eddf11b58f05c1f0ec29bcafce"
+}
